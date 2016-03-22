@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div id="content-area">
+  <div id="node-746" class="node node-mine node-type-toner"><div class="node-inner">
+    <div class="content">
+      <div class="product-info product display">
+        <span class="uc-price-product uc-price-display uc-price">{{ page.price }}</span>
+      </div>
+      <div class="field field-type-text field-field-brand">
+        <div class="field-label"><strong>Brand:</strong>&nbsp;</div>
+        <div class="field-items">
+          <div class="field-item odd">{{ page.brand }}</div>
+        </div>
+      </div>
+      <div class="field field-type-text field-field-model-numbers">
+        <div class="field-label"><strong>Model Numbers:</strong>&nbsp;</div>
+        <div class="field-items">
+          {% for model in page.model_numbers %}
+          <div class="field-item">{{ model }}</div>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="product-image">
+        <div class="main-product-image">
+          <a href="/images/{{ page.image }}" title="{{ page.brand }}" class="thickbox initThickbox-processed" rel="uc_image_0">
+            <img src="/images/{{ page.image }}" alt="{{ page.brand }}" title="{{ page.brand }}" width="400" height="400" class="imagecache imagecache-product">
+          </a>
+        </div>
+        <div class="more-product-images"></div>
+      </div>
+      <div class="product-body"></div>
+    </div>
+  </div>
+</div>
+</div>

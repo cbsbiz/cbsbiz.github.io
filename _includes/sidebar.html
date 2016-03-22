@@ -1,0 +1,91 @@
+<div id="sidebar-left">
+  <div id="sidebar-left-inner" class="region region-left">
+    <div id="block-menu-secondary-links" class="block block-menu region-odd odd region-count-1 count-1">
+      <div class="block-inner">
+        <div class="content">
+          <ul class="menu">
+            {% assign current = page.url | downcase | split: '/' %}
+            <li class="leaf first"><a href="/laserfiche-suite" {% if current[1]=='laserfiche-suite' %}class='active' {% endif %}>Laserfiche Scanning Solutions</a></li>
+            <li class="leaf"><a href="/multi-function-products" {% if current[1]=='multi-function-products' %}class='active' {% endif %}>Office Equipment Products</a></li>
+            <li class="leaf last"><a href="/ink_toner/all" {% if current[1]=='ink_toner' %}class='active' {% endif %}>Ink &amp; Toner Printing Cartridges</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    {% if page.dir == '/ink_toner' %}
+    <div id="block-menu-menu-ink-toner" class="block block-menu region-odd odd region-count-3 count-3">
+      <div class="block-inner">
+        <h2 class="title">Product Links</h2>
+        <div class="content">
+          <ul class="menu">
+            <li class="expanded first last"><a href="/ink_toner/all" title="">Ink &amp; Toner</a>
+              <ul class="menu">
+                <li class="leaf first"><a href="/ink_toner/brother" title="" class="active">Brother</a></li>
+                <li class="leaf"><a href="/ink_toner/canon" title="">Canon</a></li>
+                <li class="leaf"><a href="/ink_toner/dell" title="">Dell</a></li>
+                <li class="leaf"><a href="/ink_toner/epson" title="">Epson</a></li>
+                <li class="leaf"><a href="/ink_toner/hpcolor" title="">HP Color</a></li>
+                <li class="leaf"><a href="/ink_toner/hpmono" title="">HP Mono</a></li>
+                <li class="leaf"><a href="/ink_toner/ibm" title="">IBM</a></li>
+                <li class="leaf"><a href="/ink_toner/konica-minolta" title="">Konica Minolta</a></li>
+                <li class="leaf"><a href="/ink_toner/kyocera" title="">Kyocera</a></li>
+                <li class="leaf"><a href="/ink_toner/lexmark" title="">Lexmark</a></li>
+                <li class="leaf"><a href="/ink_toner/oki" title="">OKI</a></li>
+                <li class="leaf"><a href="/ink_toner/panasonic" title="">Panasonic</a></li>
+                <li class="leaf"><a href="/ink_toner/samsung" title="">Samsung</a></li>
+                <li class="leaf"><a href="/ink_toner/sharp" title="">Sharp</a></li>
+                <li class="leaf"><a href="/ink_toner/toshiba" title="">Toshiba</a></li>
+                <li class="leaf last"><a href="/ink_toner/xerox" title="">Xerox</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    <div id="block-block-6" class="block block-block region-even even region-count-2 count-2">
+      <div class="block-inner">
+        <h2 class="title">What&#039;s Hot</h2>
+        <div class="content">
+          <h3>Best Selling Products</h3>
+          <ol>
+            <li><a href="/ink_toner/all">ink cartridges</a></li>
+            <li><a href="/managed-services/servers">Laserfiche hosting</a></li>
+            <li><a href="/multi-function-products/printers/blackandwhite/bizhub-283">BizHub 283</a></li>
+            <li><a href="/laserfiche-suite">Laserfiche Avante</a></li>
+            <li><a href="#">Fujitsu 6140C</a></li>
+          </ol>
+          <h3>Most Requested Services</h3>
+          <ol>
+            <li><a href="/contact-us?subject=FREE%20Scanning%20Consultation">FREE Scanning Consultation</a></li>
+            <li><a href="/contact-us?subject=Multi-function%20white%20paper">Multi-function white paper</a></li>
+            <li><a href="/contact-us?subject=Service%20on%20Current%20Equipment">Service on Current Equipment</a></li>
+            <li><a href="/contact-us?subject=Cartridge%20Quote">Cartridge Quote</a></li>
+            <li><a href="/contact-us?subject=Lunch%20and%20Laserfiche%20Demo">Lunch and Laserfiche Demo</a></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+    <div id="block-block-24" class="block block-block region-odd odd region-count-3 count-3">
+      <div class="block-inner">
+        <h2 class="title">Contact Us</h2>
+        <div class="content">
+          <h3><a target="_blank" href="mailto:cdupree@cbs-biz.com?subject=Website Inquiry&body=Hello! I'm interested in doing business with you!">E-mail</a></h3>
+          <h3>Telephone &amp; Fax</h3>
+          <p>Toll Free: 1 (800) 338-8089
+            <br> Local: 1 (321) 269-0247
+            <br> Fax: 1 (321) 607-6912</p>
+          <h3>Customer Service &amp; Telephone Sales Hours</h3>
+          <p>Monday - Friday
+            <br> 8:00 am - 5:00 pm EST</p>
+          <h3>Address</h3>
+          <p><a href="http://maps.google.com/maps/place?cid=8672876230675798795&amp;q=Connectivity+Business+Systems,+Inc.,+1429+Chaffee+Drive,+Titusville,+FL+32780&amp;hl=en&amp;cd=1&amp;ei=-_fcS9rNGpHoygTD-JyKBw&amp;sig2=-Cg5NI0NDNtxjdVlFTaD0Q&amp;sll=28.525797,-80.817964&amp;sspn=0.006295,0.006295&amp;ie=UTF8&amp;ll=28.531713,-80.828927&amp;spn=0,0&amp;z=16&amp;iwloc=A"
+              target="_blank">CBS Titusville<br>
+1429 Chaffee Drive Suite #6<br>
+Titusville, FL 32780<br>
+USA</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+{% include head.html %}
+
+<body class="not-front not-logged-in node-type-page one-sidebar sidebar-left page-meet-the-team section-meet-the-team">
+  <div id="page">
+    <div id="page-inner">
+
+      {% include header.html %}
+
+      <div id="main">
+        <div id="main-inner" class="clear-block with-navbar">
+          <div id="content">
+            <div id="content-inner">
+              <div id="content-header">
+                <h1 class="title">{{ page.title }}</h1>
+              </div>
+              {{ content }}
+            </div>
+          </div>
+          {% include nav.html %}
+          <div id="banner">
+            <div id="block-block-15" class="block block-block region-odd odd region-count-1 count-5">
+              <div class="block-inner">
+                <div class="content">
+                  <img src="/images/{{ page.banner }}" />
+                </div>
+              </div>
+            </div>
+          </div>
+          {% include sidebar.html %}
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,35 @@
+<div id="navbar">
+  <div id="navbar-inner" class="clear-block region region-navbar">
+    <a name="navigation" id="navigation"></a>
+    <div id="block-menu-primary-links" class="block block-menu region-odd even region-count-1 count-4">
+      <div class="block-inner">
+        <div class="content">
+          <ul class="menu">
+            {% assign current = page.url | downcase | split: '/' %}
+
+            <li class="expanded first"><a href="/multi-function-products" title="Multi-Function Products" {% if current[1] == 'multi-function-products' %}class='active'{% endif %}>Multi-Function Products</a>
+              <ul class="menu">
+                <li class="leaf first"><a href="/multi-function-products/color" title="Color" {% if current[2] == 'multi-function-products' %}class='active'{% endif %}>Color</a></li>
+                <li class="leaf"><a href="/multi-function-products/blackandwhite" title="Black and White" {% if current[2] == 'blackandwhite' %}class='active'{% endif %}>Black &amp; White</a></li>
+                <li class="leaf"><a href="/multi-function-products/production" title="Production" {% if current[2] == 'production' %}class='active'{% endif %}>Production</a></li>
+                <li class="leaf last"><a href="/multi-function-products/consumer" title="Consumer" {% if current[2] == 'consumer' %}class='active'{% endif %}>Consumer</a></li>
+              </ul>
+            </li>
+            <li class="leaf"><a href="/laserfiche-suite" title="Laserfiche Suite" {% if current[1] == 'laserfiche-suite' %}class='active'{% endif %}>Laserfiche Suite</a></li>
+            <li class="leaf"><a href="/iscan-offsite" title="Laserfiche Hosting" {% if current[1] == 'iscan-offsite' %}class='active'{% endif %}>iScan-Offsite</a></li>
+            <li class="expanded"><a href="/managed-services" title="Managed Services" {% if current[1] == 'managed-services' %}class='active'{% endif %}>Managed Services</a>
+              <ul class="menu">
+                <li class="leaf first"><a href="/managed-services/backups" title="Backups" {% if current[2] == 'backups' %}class='active'{% endif %}>Backups</a></li>
+                <li class="leaf"><a href="/managed-services/desktops" title="Desktops" {% if current[2] == 'desktops' %}class='active'{% endif %}>Desktops</a></li>
+                <li class="leaf"><a href="/managed-services/printers" title="Printers" {% if current[2] == 'printers' %}class='active'{% endif %}>Printers</a></li>
+                <li class="leaf last"><a href="/managed-services/servers" title="Servers" {% if current[12 == 'servers' %}class='active'{% endif %}>Servers</a></li>
+              </ul>
+            </li>
+            <li class="leaf"><a href="/ink_toner/all" title="">Ink &amp; Toner</a></li>
+            <li class="leaf last"><a href="/meet-the-team" title="Meet the Team" {% if current[1] == 'meet-the-team' %}class='active'{% endif %}>Meet the Team</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

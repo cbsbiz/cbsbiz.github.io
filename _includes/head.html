@@ -1,0 +1,31 @@
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>{% if page.title %}{{ page.title }}{% endif %} | {{ site.title }}</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta property="fb:app_id" content=""/>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="{% if site.keywords %}{{ site.keywords }}{% endif %}">
+  <link rel="shortcut icon" href="/favicon.ico"" type="image/x-icon" />
+  <link rel="stylesheet" href="{{ "/css/layout.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/html-elements.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/cbs.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/print.css" | prepend: site.baseurl }}" media="print">
+  <link rel="stylesheet" href="{{ "/css/zen.css" | prepend: site.baseurl }}">
+  <!--[if IE]>
+    <link type="text/css" rel="stylesheet" media="all" href="{{ "/css/ie.css" | prepend: site.baseurl }}" />
+  <![endif]-->
+  <script type="text/javascript" src="{{ "/js/jquery.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/drupal.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/cufon-yui.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/GeoGrotesque_400-GeoGrotesque_700-GeoGrotesque_italic_400-GeoGrotesque_italic_700.font.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/cufon-custom.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/jquery.dropdownPlain.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/script.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/jquery.newsticker.pack.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript">
+  <!--//--><![CDATA[//><!--
+    jQuery.extend(Drupal.settings, { "basePath": "/", "admin_menu": { "margin_top": 1 }, "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" } });
+  //--><!]]>
+  </script>
+</head>

@@ -1,0 +1,49 @@
+---
+layout: default
+---
+<div id="content-area">
+  <div id="node-9" class="node node-mine node-type-printer-color">
+    <div class="node-inner">
+      <div class="content">
+        <div class="quotes-inquiry">Inquire for pricing</div>
+        <div class="product-image">
+          <div class="main-product-image">
+            <a href="/images/{{ page.image }}" title="{{ page.title }}" class="thickbox initThickbox-processed" rel="uc_image_0">
+              <img src="/images/{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}" width="259" height="400" class="imagecache imagecache-product">
+            </a>
+          </div>
+          <div class="more-product-images"></div>
+        </div>
+        <div class="product-body">
+          {{ content }}
+        </div>
+        {% if page.type == 'color' %}
+        <div class="field field-type-text field-field-ppm-color">
+          <div class="field-label"><strong>Color PPM:</strong>&nbsp;</div>
+          <div class="field-items">
+            <div class="field-item odd">{{ page.ppm_color }}</div>
+          </div>
+        </div>
+        {% endif %}
+        <div class="field field-type-text field-field-ppm-bw">
+          <div class="field-label"><strong>B&amp;W PPM:</strong>&nbsp;</div>
+          <div class="field-items">
+            <div class="field-item odd">{{ page.ppm_bw }}</div>
+          </div>
+        </div>
+        <div class="field field-type-text field-field-max-monthly-volume">
+          <div class="field-label"><strong>Max Monthly Volume:</strong>&nbsp;</div>
+          <div class="field-items">
+            <div class="field-item odd">{{ page.max_monthly_volume }}</div>
+          </div>
+        </div>
+        <div class="field field-type-text field-field-max-paper-capacity">
+          <div class="field-label"><strong>Max Paper Capacity:</strong>&nbsp;</div>
+          <div class="field-items">
+            <div class="field-item odd">{{ page.max_paper_capacity }}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
