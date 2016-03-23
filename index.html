@@ -37,17 +37,31 @@ banner: banner-mountains.jpg
       </div>
     </div>
     <div id="content-area">
+      {% for post in paginator.posts %}
       <div id="node-1921" class="node node-teaser node-type-story">
         <div class="node-inner">
           <h2 class="title">
-            <a href="/content/isaiah-4110" title="Isaiah 41:10">Isaiah 41:10</a>
+            <a href="{{ post.id }}" title="{{ post.title }}">{{ post.title }}</a>
           </h2>
           <div class="content">
             <div class="fb-social-like-widget">
-              <fb:like  href="http://cbs-biz.com/content/isaiah-4110" send="false" layout="standard" show_faces="true" width="350" action="like" font="arial" colorscheme="light"></fb:like>
+              <fb:like href="{{ post.permalink }}" send="false" layout="standard" show_faces="true" width="350" action="like" font="arial" colorscheme="light"></fb:like>
             </div>
-            <p>So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.</p>
+            <p>{{ post.excerpt }}</p>
           </div>
         </div>
+      </div>
+      {% endfor %}
+      <div class="item-list">
+            {% if paginator.page != 1 %}
+            <a href="/" title="Go to first page">&laquo; first</a>
+            <a href="{{ paginator.previous_page_path }}" title="Go to previous page">&lsaquo; previous</a>
+            {% endif %}
+          Page {{ paginator.page }} of {{ paginator.total_pages }}
+            {% if paginator.page != paginator.total_pages %}
+            <a href="{{ paginator.next_page_path }}" title="Go to next page">next &rsaquo;</a>
+            <a href="/page{{ paginator.total_pages }}" title="Go to last page">last &raquo;</a>
+            {% endif %}
+        </ul>
       </div>
     </div>

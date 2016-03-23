@@ -5,6 +5,8 @@ description: > # CBS is a family owned and operated business serving the
   copiers, digital imaging, and IT support.
 keywords: "CBS,Connectivity Business Systems,Titusville,FL,Copiers,Ink,Toner,Digital Imaging,Laserfiche,Office Equipment,Managed Services"
 url: "http://cbs-biz.com"
+gems: [jekyll-paginate]
+paginate: 5
 collections:
   multi-function-products:
     output: true
@@ -24,12 +26,12 @@ defaults:
       type: ink_toner
     values:
       banner: banner-ink_toner.jpg
+  - scope:
+      path: ""
+      type: posts
+    values:
+      banner: banner-mountains.jpg
+      permalink: content/:title
 
 # Build settings
 markdown: kramdown
-
-contentful:
-  spaces:
-    - example: # Jekyll _data folder identifier - Required
-        space: 03abf6u6zowe # Required
-        access_token: 0004715fae31072b2b6382eaad2eefe1d47d7c1d479e094bf990c90ac765ce20 # Required
