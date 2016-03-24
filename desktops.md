@@ -7,6 +7,8 @@ banner: banner-ms-desktops.jpg
 
 ## Desktop Preventative Maintenance
 
+<img src="/images/desktop_prevent_maint.jpg" style="float:left;padding:0 10px 10px 0">
+
 CBS offers the most comprehensive set of tools and NOC services for desktops. We automate mundane preventive maintenance tasks and report the results back to you. Each desktop agent comes bundled with industry leading software for remote control and end-client protection.
 
 * Extensive Script Library (Over 200 Scripts)

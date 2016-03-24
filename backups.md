@@ -7,7 +7,7 @@ banner: banner-services-backups.jpg
 
 ## Backup & Recovery
 
-<img src="/sites/default/files/backup_recovery.jpg" style="float:left;padding:0 10px 10px 0">
+<img src="/images/backup_recovery.jpg" style="float:left;padding:0 10px 10px 0">
 
 What would a BDR solution be without solid backups? Our disk-based NAS allows for quick and easy point-in-time snapshots, which take just minutes and won't impact your environment. Only the changes to your data are backed up. Restoration is just as easy, mount your backup file as a drive on the NAS and copy what you need locally or to the network.
 
