@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div id="content-area">
+  <div id="node-4" class="node node-type-page">
+    <div class="node-inner">
+      <div class="content">
+        {{ content }}
+        <strong>Verses:</strong>
+        <ul>
+        {% for verse in page.verses %}
+          <li><a target="_blank" href="https://www.bible.com/search/bible?q={{ verse }}">{{ verse }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

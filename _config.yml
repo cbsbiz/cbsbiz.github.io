@@ -8,6 +8,8 @@ url: "http://cbs-biz.com"
 gems: [jekyll-paginate]
 paginate: 5
 collections:
+  devotional:
+    output: true
   multi-function-products:
     output: true
   ink_toner:
@@ -16,6 +18,13 @@ collections:
     output: false
 
 defaults:
+  - scope:
+      path: ""
+      type: devotional
+    values:
+      banner: banner-mountains.jpg
+      layout: devotional
+      permalink: /devotional/:year/:month/:day/
   - scope:
       path: ""
       type: multi-function-products
