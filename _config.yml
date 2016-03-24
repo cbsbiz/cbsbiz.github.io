@@ -40,7 +40,7 @@ defaults:
       type: posts
     values:
       banner: banner-mountains.jpg
-      permalink: content/:title
+      permalink: /blog/:year/:month/:day/
 
 # Build settings
 markdown: kramdown
