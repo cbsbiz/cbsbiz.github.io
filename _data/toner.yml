@@ -1,0 +1,3357 @@
+- title: 106R01080
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 7400"
+  price: $101.49
+  body: |
+    Toner Ctg, Black, Y=15k
+    Toner Ctg, Cyan, Y=18k
+    Toner Ctg, Magenta, Y=18k
+    Toner Ctg, Yellow, Y=18k
+- title: 106R01085
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 6300"
+  price: $59.49
+  body: |
+    Toner Ctg, Black, Y=7k
+    Toner Ctg, Cyan, Y=7k
+    Toner Ctg, Magenta, Y=7k
+    Toner Ctg, Yellow, Y=7k
+- title: 106R01147
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 6350"
+  price: $73.49
+  body: |
+    Toner Ctg, Black, Y=10k
+    Toner Ctg, Cyan, Y=10k
+    Toner Ctg, Magenta, Y=10k
+    Toner Ctg, Yellow, Y=10k
+- title: 106R01217
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 6360"
+    - "6360DN"
+    - "6360DT"
+    - "6360DX"
+    - "6360N"
+  price: $89.99
+  body: |
+    Toner Ctg, Black, Y=9k
+    Toner Ctg, Cyan, Y=5k
+    Toner Ctg, Magenta, Y=5k
+    Toner Ctg, Yellow, Y=5k
+- title: 106R01221
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 6360"
+    - "6360DN"
+    - "6360DT"
+    - "6360DX"
+    - "6360N"
+  price: $116.39
+  body: |
+    Toner Ctg, Black, Y=18k
+    Toner Ctg, Cyan, Y=12k
+    Toner Ctg, Magenta, Y=12k
+    Toner Ctg, Yellow, Y=12k
+- title: TN04
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "HL-2700CN"
+    - "MFC-9420CN"
+  price: $112.79
+  body: |
+    Toner Ctg, Black, Y=10k
+    Toner Ctg, Cyan, Y=6.6k
+    Toner Ctg, Magenta, Y=6.6k
+    Toner Ctg, Yellow, Y=6.6k
+- title: TN12
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "HL-4200CN"
+  price: $50.00
+  body: |
+    TN12BK  Toner Ctg, Black, Y=9k 
+    TN12C  Toner Ctg, Cyan, Y=6k 
+    TN12M  Toner Ctg, Magenta, Y=6k 
+    TN12Y  Toner Ctg, Yellow, Y=6k 
+- title: TN115
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "HL-4040CDW"
+    - "4040CN"
+    - "4070CDW"
+    - "DCP-9040CN"
+    - "9045CDN"
+    - "MFC-9440CN"
+    - "9840CDW"
+  price: $68.24
+  body: |
+    TN115BK Toner Ctg, Black, Y=9k
+    TN115C  Toner Ctg, Cyan, Y=6k 
+    TN115M  Toner Ctg, Magenta, Y=6k
+    TN115Y  Toner Ctg, Yellow, Y=6k
+- title: TN200HL
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "HL-700"
+    - "720"
+    - "730"
+    - "760"
+    - "1040"
+    - "2750"
+    - "4450"
+    - "6550"
+    - "FAX-8000P"
+    - "8050P"
+    - "8060P"
+    - "8200P"
+    - "8250P"
+    - "8650P"
+  price: $22.79
+  body: |
+    
+- title: TN250
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "MFC-4800"
+    - "6800"
+    - "4300"
+    - "4350"
+    - "4450"
+    - "4550"
+    - "4600"
+    - "4650"
+    - "6550MC"
+    - "7550MC"
+    - "7650MC"
+    - "7750"
+    - "9050"
+    - "9060"
+    - "9500"
+    - "9550"
+    - "DCP-1000"
+    - "Intellifax 2800"
+    - "2900"
+    - "3800"
+    - "2550ML"
+    - "2600"
+    - "2750"
+    - "3650"
+    - "3750"
+    - "3550"
+    - "PPF-2800"
+    - "2900"
+    - "3800"
+    - "HL-700"
+    - "720"
+    - "730"
+    - "760"
+    - "820"
+    - "1040"
+    - "1050"
+    - "1060"
+    - "1070"
+    - "Fax-8000P"
+    - "8050P"
+    - "8060P"
+    - "8200P"
+    - "8250P"
+    - "8650P"
+  price: $22.79
+  body: |
+    
+- title: TN350
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "MFC-7220"
+    - "7225N"
+    - "7420"
+    - "7820"
+    - "7820N DCP-7020"
+    - "HL-2030"
+    - "2040"
+    - "2070N"
+    - "IntelliFax 2820"
+    - "2910"
+    - "2920"
+  price: $39.59
+  body: |
+    
+- title: TN360
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "DCP-7040"
+    - "HL-2140"
+    - "2170W"
+    - "MFC-7440N"
+    - "7840W"
+  price: $49.99
+  body: |
+    
+- title: TN430
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "DCP-1200"
+    - "1400"
+    - "HL 1030"
+    - "1230"
+    - "1240"
+    - "1250"
+    - "1270N"
+    - "1435"
+    - "1440"
+    - "1450"
+    - "1470N"
+    - "Fax 4750"
+    - "5750"
+    - "MFC 8300"
+    - "8500"
+    - "8600"
+    - "8700"
+    - "9600"
+    - "9650"
+    - "9660"
+    - "9700"
+    - "9880"
+  price: $45.00
+  body: |
+    
+- title: TN460
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "DCP-1200"
+    - "1400"
+    - "FAX-4750"
+    - "5750"
+    - "8350P"
+    - "8360P"
+    - "8750P"
+    - "HL-1030"
+    - "1230"
+    - "1240"
+    - "1250"
+    - "1270N"
+    - "1430"
+    - "1435"
+    - "1440"
+    - "1450"
+    - "1470N"
+    - "P2500"
+    - "IntelliFax 4100"
+    - "4100e"
+    - "4750"
+    - "4750e"
+    - "5750"
+    - "5750e"
+    - "MFC-8300"
+    - "850"
+    - "8500"
+    - "8600"
+    - "8700"
+    - "9600"
+    - "9650"
+    - "9660"
+    - "9660N"
+    - "9700"
+    - "9750"
+    - "9760"
+    - "9800"
+    - "9850"
+    - "9860"
+    - "9870"
+    - "9880"
+    - "9880N"
+    - "P2500"
+  price: $57.29
+  body: |
+    
+- title: TN530, 560
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "DCP-8020"
+    - "DCP-8025D"
+    - "HL-1650"
+    - "HL-1650N"
+    - "HL-1650NPLUS"
+    - "HL-1670N"
+    - "HL-1850"
+    - "HL-1870n"
+    - "HL-5040"
+    - "HL-5050"
+    - "HL-5050LT"
+    - "HL-5070N"
+    - "MFC-8420"
+    - "MFC-8820D"
+    - "MFC-8820DN"
+  price: $54.99
+  body: |
+    
+- title: TN540, 570
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "DCP-8040"
+    - "DCP-8045D"
+    - "HL-5140"
+    - "HL-5150D"
+    - "HL-5150DLT"
+    - "HL-5170DN"
+    - "HL-5170DNLT"
+    - "MFC-8120"
+    - "MFC-8220"
+    - "MFC-8440"
+    - "MFC-8640D"
+    - "MFC-8840D"
+    - "MFC-8840DN"
+  price: $54.99
+  body: |
+    
+- title: TN550, 580
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "DCP-8060"
+    - "DCP-8065DN"
+    - "HL-5240"
+    - "HL-5250DN"
+    - "HL-5250DNT"
+    - "HL-5280DW"
+    - "MFC-8460N"
+    - "MFC-8660DN"
+    - "MFC-8670DN"
+    - "MFC-8860DN"
+    - "MFC-8870DW"
+  price: $54.99
+  body: |
+    
+- title: DR200
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "MFC-4300"
+    - "4350"
+    - "4450"
+    - "4550"
+    - "4550Plus"
+    - "4600"
+    - "4650"
+    - "6550MC"
+    - "6650MC"
+    - "7550MC"
+    - "7650MC"
+    - "7750"
+    - "9050MFC"
+    - "9060"
+    - "9500"
+    - "9550MFC"
+    - "FAX-8000P"
+    - "8050P"
+    - "8060P"
+    - "8200P"
+    - "8250P"
+    - "8650P"
+    - "HL-700"
+    - "720"
+    - "730DX"
+    - "730Plus"
+    - "760"
+    - "760Plus"
+    - "IntelliFax 2550ML"
+    - "2600"
+    - "2750"
+    - "3550"
+    - "3650"
+    - "3750"
+  price: $113.99
+  body: |
+    
+- title: DR250
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "MFC-4800"
+    - "6800"
+    - "PPF-2800"
+    - "2900"
+    - "3800"
+    - "DCP-1000"
+    - "FAX-8070P"
+    - "IntelliFax 2800"
+    - "2900"
+    - "3800"
+  price: $127.79
+  body: |
+    
+- title: DR350
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "MFC-7220"
+    - "7225N"
+    - "7420"
+    - "7820"
+    - "7820N"
+    - "DCP-7020"
+    - "HL-2030"
+    - "2040"
+    - "2070N"
+    - "IntelliFax 2820"
+    - "2910"
+    - "2920"
+  price: $76.19
+  body: |
+    
+- title: DR360
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "HL-2140"
+    - "2150N"
+    - "2170W"
+    - "MFC-7320"
+    - "7440N"
+    - "7840W"
+    - "DCP-7030"
+    - "7040"
+  price: $73.49
+  body: |
+    
+- title: DR400
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "MFC-8300"
+    - "850"
+    - "8500"
+    - "8600"
+    - "8700"
+    - "9600"
+    - "9650"
+    - "9660"
+    - "9660N"
+    - "9700"
+    - "9750"
+    - "9760"
+    - "9800"
+    - "9850"
+    - "9860"
+    - "9870"
+    - "9880"
+    - "9880N"
+    - "P2500"
+    - "DCP-1200"
+    - "1400"
+    - "FAX-4750"
+    - "5750"
+    - "8350P"
+    - "8360P"
+    - "8750P"
+    - "HL-1030"
+    - "1230"
+    - "1240"
+    - "1250"
+    - "1270N"
+    - "1430"
+    - "1435"
+    - "1440"
+    - "1450"
+    - "1470N"
+    - "P2500"
+    - "IntelliFax 4100"
+    - "4100e"
+    - "4750"
+    - "4750e"
+    - "5750"
+    - "5750e"
+  price: $119.09
+  body: |
+    
+- title: DR500
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "MFC-8420"
+    - "8820D"
+    - "8820DN"
+    - "DCP-8020"
+    - "8025D"
+    - "8025DN"
+    - "HL-1650"
+    - "1670N"
+    - "1850"
+    - "1870N"
+    - "5040"
+    - "5050"
+    - "5070N"
+  price: $119.09
+  body: |
+    
+- title: DR510
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "MFC-8220"
+    - "8440"
+    - "8640D"
+    - "8840D"
+    - "8840DN"
+    - "DCP-8040"
+    - "8045D"
+    - "HL-5130"
+    - "5140"
+    - "5150D"
+    - "5150DLT"
+    - "5170DN"
+  price: $119.09
+  body: |
+    
+- title: DR520
+  brand: Brother
+  image: brother-logo.jpg
+  model_numbers:
+    - "DCP-8060"
+    - "8065DN"
+    - "HL-5240"
+    - "5250DN"
+    - "5250DNT"
+    - "5270DN"
+    - "5280DW"
+    - "MFC-8460N"
+    - "8660DN"
+    - "8860DN"
+    - "8870DW"
+  price: $119.09
+  body: |
+    
+- title: FX2
+  brand: Canon
+  image: canon_logo.jpg
+  model_numbers:
+    - "FAX L500"
+    - "L550, L600, Laser Class 5000, 5500, 7000, 7500"
+  price: $54.00
+  body: |
+    
+- title: FX3
+  brand: Canon
+  image: canon_logo.jpg
+  model_numbers:
+    - "CFX-L3500 IF, L4000"
+    - "L4500 IF, FAX L120, L200, L220, L240, L250, L260, L260i, L280, L290, L295, L300, L350, FAXPHONE L75, L80, imageCLASS 1100, Laser Class 1060P"
+    - "2050, 2060, L300, L4000, MultiPASS L60, L6000, L90"
+    - "EGTAgoris 5104"
+    - "Agoris 6102"
+    - "Telekom T-FAX 374L"
+    - "382L"
+  price: $47.40
+  body: |
+    
+- title: FX4
+  brand: Canon
+  image: canon_logo.jpg
+  model_numbers:
+    - "FAX L800, L900, Laser Class 8500, 9000, 9000S"
+    - "9000MS"
+    - "9500"
+    - "9500S"
+    - "9500MS"
+  price: $59.40
+  body: |
+    
+- title: FX6
+  brand: Canon
+  image: canon_logo.jpg
+  model_numbers:
+    - "FAX L1000, Laser Class 3170"
+    - "3175, 3175MS"
+  price: $73.20
+  body: |
+    
+- title: FX7
+  brand: Canon
+  image: canon_logo.jpg
+  model_numbers:
+    - "FAX L2000"
+    - "L2000iP, Laser Class 710"
+    - "720i, 730i"
+  price: $64.20
+  body: |
+    
+- title: FX8
+  brand: Canon
+  image: canon_logo.jpg
+  model_numbers:
+    - "FAX L360"
+    - "L380"
+    - "L380S, L390, L400, FAXPHONE L170, imageCLASS D320, D340, Laser Class 310, 510"
+    - "PC-D320"
+    - "D340"
+  price: $74.40
+  body: |
+    
+- title: FX9, FX10, C104
+  brand: Canon
+  image: canon_logo.jpg
+  model_numbers:
+    - "FaxL100"
+    - "Faxphone L120"
+    - "imageCLASS MF4150"
+    - "MF4690"
+    - "I-Sensys 4120"
+    - "4140"
+    - "4150"
+    - "Satera MF4130"
+    - "MF4150"
+    - "MF6570"
+  price: $42.00
+  body: |
+    
+- title: E40, E31
+  brand: Canon
+  image: canon_logo.jpg
+  model_numbers:
+    - "FC-200"
+    - "204"
+    - "220"
+    - "310"
+    - "330"
+    - "336"
+    - "PC-140"
+    - "150"
+    - "160"
+    - "170"
+    - "300"
+    - "310"
+    - "320"
+    - "325"
+    - "330"
+    - "330L"
+    - "400"
+    - "420"
+    - "425"
+    - "428"
+    - "430"
+    - "530"
+    - "550"
+    - "710"
+    - "720"
+    - "730"
+    - "735"
+    - "740"
+    - "745"
+    - "760"
+    - "770"
+    - "775"
+    - "785"
+    - "790"
+    - "795"
+    - "860"
+    - "880"
+    - "890"
+    - "920"
+    - "921"
+    - "940"
+    - "941"
+    - "950"
+    - "980"
+    - "981"
+  price: $77.99
+  body: |
+    
+- title: L50
+  brand: Canon
+  image: canon_logo.jpg
+  model_numbers:
+    - "imageCLASS D660"
+    - "D661, D680, D760, D761, D780, D860, D861, D880, PC-1060, 1061"
+    - "1080F"
+  price: $89.40
+  body: |
+    
+- title: S35
+  brand: Canon
+  image: canon_logo.jpg
+  model_numbers:
+    - "FAX L360, L380"
+    - "L380S"
+    - "L390"
+    - "L400"
+    - "FAXPHONE L170"
+    - "imageCLASS D320"
+    - "D340"
+    - "310"
+    - "Laser Class 510"
+    - "PC-D320"
+    - "PC-D340"
+  price: $74.40
+  body: |
+    
+- title: X25
+  brand: Canon
+  image: canon_logo.jpg
+  model_numbers:
+    - "imageCLASS MF3110"
+    - "MF3111"
+    - "MF5530"
+    - "MF5550"
+    - "MF5730"
+    - "MF5750"
+    - "MF5770"
+  price: $49.20
+  body: |
+    
+- title: C106
+  brand: Canon
+  image: canon_logo.jpg
+  model_numbers:
+    - "imageCLASS MF6500"
+    - "MF6530"
+    - "MF6550"
+    - "MF6560"
+    - "MF6580"
+    - "LaserBase MF6530"
+    - "MF6540PL"
+    - "MF6550PL"
+    - "MF6560PL"
+    - "MF6580"
+  price: $89.40
+  body: |
+    
+- title: 310-9058
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "1320C"
+  price: $46.19
+  body: |
+    310-9058 Toner Ctg, Black, Y=2k
+    310-9060 Toner Ctg, Cyan, Y=2k
+    310-9064 Toner Ctg, Magenta, Y=2k
+    310-9062 Toner Ctg, Yellow, Y=2k
+    
+- title: 330-1436, 330-1389
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "2130"
+    - "2135"
+  price: $51.09
+  body: |
+    330-1436,
+    330-1389 Toner Ctg, Black, Y=2.5k 
+    330-1437,
+    330-1390 Toner Ctg, Cyan, Y=2.5k
+    330-1433,
+    330-1392 Toner Ctg, Magenta,Y=2.5k
+    330-1438,
+    330-1391 Toner Ctg, Yellow, Y=2.5k
+- title: 310-5726
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "3000CN"
+    - "3100CN"
+  price: $38.00
+  body: |
+    310-5726  Toner Ctg, Black, Y=4k
+    310-5739  Toner Ctg, Cyan, Y=2k 
+    310-5738  Toner Ctg, Magenta, Y=2k
+    310-5737  Toner Ctg, Yellow, Y=2k
+- title: 310-5726
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "3100CN"
+  price: $38.00
+  body: |
+    310-5726 Toner Ctg, Black, Y=4k
+    310-5731 Toner Ctg, Cyan, Y=4k
+    310-5730 Toner Ctg, Magenta, Y=4k
+    310-5729 Toner Ctg, Yellow, Y=4k
+- title: 341-3568
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "3010CN"
+  price: $33.00
+  body: |
+    341-3568 Toner Ctg, Black, Y=2k
+    341-3571 Toner Ctg, Cyan, Y=2k
+    341-3570 Toner Ctg, Magenta, Y=2k
+    341-3569 Toner Ctg, Yellow, Y=2k
+- title: 310-8093
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "3110CN"
+    - "3115CN"
+  price: $69.00
+  body: |
+    310-8093 Toner Ctg, Black, Y=5k
+    310-8095 Toner Ctg, Cyan, Y=4k
+    310-8097 Toner Ctg, Magenta, Y=4k
+    310-8099 Toner Ctg, Yellow, Y=4k
+    
+    310-8092 Toner Ctg, Black, Y=8k
+    310-8094 Toner Ctg, Cyan, Y=8k
+    310-8096 Toner Ctg, Magenta, Y=8k
+    310-8098 Toner Ctg, Yellow, Y=8k
+- title: 310-8092
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "3110CN"
+    - "3115CN"
+  price: $89.99
+  body: |
+    310-8092 Toner Ctg, Black, Y=8k
+    310-8094 Toner Ctg, Cyan, Y=8k
+    310-8096 Toner Ctg, Magenta, Y=8k
+    310-8098 Toner Ctg, Yellow, Y=8k
+    
+    
+- title: 310-5807
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "5100CN"
+  price: $40.99
+  body: |
+    310-5807  Toner Ctg, Black, Y=9k
+    310-5810  Toner Ctg, Cyan, Y=8k
+    310-5809  Toner Ctg, Magenta, Y=8k
+    310-5808  Toner Ctg, Yellow, Y=8k
+- title: 310-7890
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "5110CN"
+  price: $43.00
+  body: |
+    310-7890 Toner Ctg, Black, Y=10k
+    310-7892 Toner Ctg, Cyan, Y=8k
+    310-7894 Toner Ctg, Magenta, Y=8k
+    310-7896 Toner Ctg, Yellow, Y=8k
+- title: 310-6640, 310-7660
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "1100"
+    - "1110"
+  price: $47.59
+  body: |
+    
+- title: 310-3542
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "P1500"
+  price: $80.00
+  body: |
+    
+- title: 310-5417
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "1600"
+  price: $60.00
+  body: |
+    
+- title: 310-7025
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "1700N"
+    - "1710"
+    - "1710N"
+  price: $68.00
+  body: |
+    
+- title: 310-7042
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "1700N"
+    - "1710"
+    - "1710N"
+  price: $34.97
+  body: |
+    
+- title: 310-8708
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "1720"
+    - "1720N"
+  price: $76.99
+  body: |
+    
+- title: 310-8709
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "1720"
+    - "1720N"
+  price: $100.79
+  body: |
+    
+- title: 310-7943
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "1815DN"
+  price: $58.99
+  body: |
+    
+- title: 310-7945
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "1815DN"
+  price: $65.99
+  body: |
+    
+- title: 310-4133
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "M5200N"
+  price: $177.09
+  body: |
+    
+- title: 341-2916
+  brand: Dell
+  image: dell-logo.jpg
+  model_numbers:
+    - "5210N"
+    - "5310N"
+  price: $193.19
+  body: |
+    
+- title: S050190
+  brand: Epson
+  image: epson-logo.jpg
+  model_numbers:
+    - "AcuLaser CX11N"
+    - "CX11NF"
+  price: $53.19
+  body: |
+    S050190 Toner Ctg, Black, Y=4k
+    S050189 Toner Ctg, Cyan, Y=4k
+    S050188 Toner Ctg, Magenta, Y=4k
+    S050187 Toner Ctg, Yellow, Y=4k
+- title: S050010
+  brand: Epson
+  image: epson-logo.jpg
+  model_numbers:
+    - "EPL-5700i"
+    - "5800"
+  price: $69.69
+  body: |
+    
+- title: C9700A, Q3960A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet 1500L"
+    - "2500"
+    - "2500L"
+    - "2500n"
+    - "2500tn"
+    - "2550L, 2550Ln, 2550n, 2800 Series, 2820, 2840"
+  price: $64.39
+  body: |
+    Q3960A Toner Ctg, Black, Y=5k
+    C9701A,
+    Q3961A Toner Ctg, Cyan, Y=4k
+    C9703A,
+    Q3963A Toner Ctg, Magenta, Y=4k
+    C9702A,
+    Q3962A Toner Ctg, Yellow, Y=4k
+    C9704A,
+    Q3964A Drum Ctg, Black Y=20k,Color Y=5K
+    
+- title: C9704A, Q3964A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet 1500L"
+    - "2500"
+    - "2500L"
+    - "2500n"
+    - "2500tn"
+    - "2550L, 2550Ln, 2550n, 2800 Series, 2820, 2840"
+  price: $127.88
+  body: |
+    C9704A,
+    Q3964A Drum Ctg, Black Y=20k,Color Y=5K
+- title: Q6000A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet 1600, 2600n, 2605dn, 2605dtn"
+    - "CM1015MFP, CM1017MFP"
+  price: $59.99
+  body: |
+    Q6000A Toner Ctg, Black, Y=2.5k
+    Q6001A Toner Ctg, Cyan, Y=2k
+    Q6003A Toner Ctg, Magenta, Y=2k
+    Q6002A Toner Ctg, Yellow, Y=2k
+- title: Q7560A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet 2700, 3000, 3000dn, 3000dtn, 3000n"
+  price: $104.99
+  body: |
+    Q7560A Toner Ctg, Black, Y=6.5k
+    Q7561A Toner Ctg, Cyan, Y=3.5k
+    Q7563A Toner Ctg, Magenta, Y=3.5k
+    Q7562A Toner Ctg, Yellow, Y=3.5k
+- title: Q2670A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet 3500, 3500n, 3550, 3550n"
+  price: $100.00
+  body: |
+    Q2670A Toner Ctg, Black, Y=6k
+    Q2671A Toner Ctg, Cyan, Y=4k
+    Q2673A Toner Ctg, Magenta, Y=4k
+    Q2672A Toner Ctg, Yellow, Y=4k
+- title: Q6470A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet 3600, 3600dn, 3600n"
+  price: $102.00
+  body: |
+    Q6470A Toner Ctg, Black, Y=6k
+    Q6471A Toner Ctg, Cyan, Y=4k
+    Q6473A Toner Ctg, Magenta, Y=4k
+    Q6472A Toner Ctg, Yellow, Y=4k
+- title: C4191A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet 4500"
+    - "4550"
+  price: $75.59
+  body: |
+    C4191A Toner Ctg, Black, Y=9k
+    C4192A Toner Ctg, Cyan, Y=6k
+    C4193A Toner Ctg, Magenta, Y=6k
+    C4194A Toner Ctg, Yellow, Y=6k
+- title: C9720A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet 4600"
+    - "4650"
+  price: $121.79
+  body: |
+    C9720A Toner Ctg, Black, Y=9k
+    C9721A Toner Ctg, Cyan, Y=8k
+    C9723A Toner Ctg, Magenta, Y=8k
+    C9722A Toner Ctg, Yellow, Y=8k
+- title: Q5950A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet 4700, 4700dn"
+    - "4700dtn, 4700n"
+  price: $139.29
+  body: |
+    Q5950A Toner Ctg, Black, Y=11k
+    Q5951A Toner Ctg, Cyan, Y=10k
+    Q5953A Toner Ctg, Magenta, Y=10k
+    Q5952A Toner Ctg, Yellow, Y=10k
+- title: Q6460A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet 4730 MFP, 4730x MFP, 4730xs MFP, CM4730 MFP, CM4730f MFP, CM4730fm MFP, CM4730fsk MFP, 4730xm MFP"
+  price: $109.99
+  body: |
+    Q6460A Toner Ctg, Black, Y=12k
+    Q6461A Toner Ctg, Cyan, Y=12k
+    Q6463A Toner Ctg, Magenta, Y=12k
+    Q6462A Toner Ctg, Yellow, Y=12k
+- title: C9730A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet 5500, 5500dn, 5500dtn, 5500hdn, 5500n, 5550, 5550dn, 5550dtn, 5550hdn, 5550n"
+  price: $176.39
+  body: |
+    C9730A Toner Ctg, Black, Y=13k
+    C9731A Toner Ctg, Cyan, Y=12k
+    C9733A Toner Ctg, Magenta,Y=12k
+    C9732A Toner Ctg, Yellow, Y=12k
+- title: C4149A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet 8500"
+    - "8550"
+  price: $97.99
+  body: |
+    C4149A Toner Ctg, Black, Y=17k
+    C4150A Toner Ctg, Cyan, Y=8.5k
+    C4151A Toner Ctg, Magenta, Y=8.5k
+    C4152A Toner Ctg, Yellow, Y=8.5k
+- title: CB400A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet CP4005, CP4005dn, CP4005n"
+  price: $125.99
+  body: |
+    CB400A Toner Ctg, Black, Y=7.5k
+    CB401A Toner Ctg, Cyan, Y=7.5k
+    CB403A Toner Ctg, Magenta, Y=7.5k
+    CB402A Toner Ctg, Yellow, Y=7.5k
+- title: CB540A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet CP1515n"
+    - "CP1518ni"
+    - "CP1215"
+    - "CM1312 MFP"
+  price: $59.99
+  body: |
+    CB540A Toner Ctg, Black, Y=2.2k
+    CB541A Toner Ctg, Cyan, Y=1.4k
+    CB543A Toner Ctg, Magenta, Y=1.4k
+    CB542A Toner Ctg, Yellow, Y=1.4k
+- title: CC530A
+  brand: Hpcolor
+  image: hp-logo.jpg
+  model_numbers:
+    - "Color LaserJet CP2025n"
+    - "CP2025dn"
+    - "CP2025x"
+    - "CM2320n"
+    - "CM2320nf"
+    - "CM2320fxi"
+  price: $86.09
+  body: |
+    CC530A 277102025BK Toner Ctg, Black, Y=3.5k
+    CC531A 277102025CN Toner Ctg, Cyan, Y=2.8k
+    CC533A 277102025MA Toner Ctg, Magenta, Y=2.8k
+    CC532A 277102025YW Toner Ctg, Yellow, Y=2.8k
+    
+    
+- title: 92274A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 4L, 4ML, 4MP"
+    - "4P"
+    - "APPLE LaserWriter 4/600 PS"
+    - "Personal LaserWriter 300"
+    - "320"
+    - "CANON LBP-4U"
+    - "430"
+    - "430W"
+    - "PX"
+    - "PX II"
+    - "LASERMASTER Winprinter 1000"
+  price: $79.79
+  body: |
+    
+- title: 92291A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 4Si MX"
+    - "4Si Series"
+    - "IIISi MX"
+    - "IIISi Series"
+    - "CANON LBP-NX 600"
+  price: $86.99
+  body: |
+    
+- title: 92295A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet Series: II"
+    - "IID"
+    - "III"
+    - "IIID"
+    - "CANON L3100"
+    - "L920"
+    - "L4600"
+    - "L4600E"
+    - "LBP-8 II"
+    - "LBP-8 III"
+    - "LBP-8 IIIT"
+    - "LBP-RX"
+    - "LBP-SX"
+    - "LBP-TX"
+    - "SX Engine"
+  price: $88.90
+  body: |
+    
+- title: 92298A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 4"
+    - "4+"
+    - "4M"
+    - "4M+"
+    - "5"
+    - "5M"
+    - "5N"
+    - "5se"
+    - "BROTHER HL-960"
+    - "1260"
+    - "1660"
+    - "APPLE LaserWriter: Pro 600"
+    - "Pro 630"
+    - "16/600PS"
+    - "CANON LBP-8N"
+    - "860"
+    - "1260"
+    - "1260+"
+    - "EX"
+  price: $79.79
+  body: |
+    
+- title: 92298X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 4"
+    - "4+"
+    - "4M"
+    - "4M+"
+    - "5"
+    - "5M"
+    - "5N"
+    - "5se"
+    - "BROTHER HL-960"
+    - "1260"
+    - "1660"
+    - "APPLE"
+    - "LaserWriter: Pro 600"
+    - "Pro 630"
+    - "16/600PS"
+    - "CANON LBP-8N"
+    - "860"
+    - "1260"
+    - "1260+"
+    - "EX"
+  price: $79.79
+  body: |
+    
+- title: C3900A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 4V"
+    - "4MV"
+    - "CANON LBP-BX II"
+    - "P380"
+  price: $125.30
+  body: |
+    
+- title: C3903A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 5MP, 5P, 6MP, 6P, 6Pse, 6Pxi"
+  price: $67.89
+  body: |
+    
+- title: C3906A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 5L, 5L Xtra, 5LFS, 6L, 6Lse, 6Lxi"
+    - "3100se, 3100xi"
+    - "3150, 3150se, 3150xi, CANON LBP-460"
+    - "465"
+    - "660"
+    - "AX"
+    - "P445"
+  price: $52.49
+  body: |
+    
+- title: C3909A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 5Si, 5Si Mopier"
+    - "5SiMX, 5SiNX, 8000, 8000DN, 8000N, Mopier 240"
+    - "CANON LBP-2460"
+    - "WX"
+    - "P550"
+    - "IBM 4324 Network Printer 24"
+    - "24PS"
+    - "KONICA MINOLTA 2425 Printsystem"
+    - "2425Turbo"
+    - "2425Turbo EX"
+    - "2425Turbo Imageserver"
+    - "2425Turbo Multi-Pacs"
+    - "2425Ex Printsystem"
+    - "2425FX-1 Printsystem"
+    - "2425FX-2 Printsystem"
+    - "PS 2425"
+    - "PS 2425EX"
+    - "LEXMARK Optra N"
+    - "N240"
+    - "N245"
+  price: $152.59
+  body: |
+    
+- title: C3909X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 5Si, 5Si Mopier"
+    - "5SiMX, 5SiNX, 8000, 8000DN, 8000N, Mopier 240"
+    - "CANON LBP-2460"
+    - "WX"
+    - "P550"
+    - "IBM 4324 Network Printer 24"
+    - "24PS"
+    - "KONICA MINOLTA 2425 Printsystem"
+    - "2425Turbo"
+    - "2425Turbo EX"
+    - "2425Turbo Imageserver"
+    - "2425Turbo Multi-Pacs"
+    - "2425Ex Printsystem"
+    - "2425FX-1 Printsystem"
+    - "2425FX-2 Printsystem"
+    - "PS 2425"
+    - "PS 2425EX"
+    - "LEXMARK Optra N"
+    - "N240"
+    - "N245"
+  price: $151.19
+  body: |
+    
+- title: C4092A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 1100"
+    - "1100A, 1100A se, 1100A xi, 1100se, 1100xi, 3200, 3200M"
+    - "3200se"
+    - "CANON LBP-1110"
+    - "1110 SE"
+    - "1120"
+    - "22X"
+    - "250"
+    - "350"
+    - "800"
+    - "810"
+    - "P420"
+  price: $46.89
+  body: |
+    
+- title: C4096A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 2100, 2100M, 2100se, 2100TN, 2100xi, 2200d, 2200dn, 2200dt, 2200dtn"
+    - "CANON LBP-1000"
+    - "1310"
+    - "32X"
+    - "470"
+    - "P100"
+  price: $76.99
+  body: |
+    
+- title: C4127X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 4000"
+    - "4000N"
+    - "4000T"
+    - "4000TN"
+    - "4000se"
+    - "4050"
+    - "4050N"
+    - "4050T"
+    - "4050TN"
+    - "4050se"
+    - "CANON LBP-1760"
+    - "1760e"
+    - "52X"
+    - "BROTHER HL-2460"
+    - "HL-2460N"
+  price: $100.79
+  body: |
+    
+- title: C4129X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 5000, 5000GN, 5000N, 5100, 5100dtn, 5100tn"
+    - "CANON FP-300 Micrographics"
+    - "FP-400 Micrographics"
+    - "GP-160F"
+    - "ImageCLASS 2200"
+    - "2210"
+    - "2220"
+    - "2250"
+    - "LBP-1610"
+    - "1620"
+    - "1810"
+    - "1820"
+    - "62X"
+    - "840"
+    - "850"
+    - "870"
+    - "880"
+    - "910"
+  price: $129.49
+  body: |
+    
+- title: C4182X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 8100, 8100DN, 8100N, 8150, 8150 MFP, 8150dn, 8150hn, 8150n, Mopier 320"
+    - "CANON ImageCLASS 4000"
+    - "4000E"
+    - "4000ED"
+    - "ImageRUNNER 3250"
+    - "LBP-1910"
+    - "3260"
+    - "72X"
+    - "950"
+  price: $156.09
+  body: |
+    
+- title: C7115A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 1000, 1005W, 1200, 1200n, 1200se, 1220, 1220se, 3300, 3300 MFP, 3310, 3320 MFP, 3320n MFP, 3330 MFP, 3380"
+  price: $50.39
+  body: |
+    
+- title: C7115X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 1000, 1005W, 1200, 1200n, 1200se, 1220, 1220se, 3300, 3300 MFP, 3310, 3320 MFP, 3320n MFP, 3330 MFP, 3380"
+  price: $63.69
+  body: |
+    
+- title: C8061X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 4100, 4100MFP, 4100dtn, 4100n, 4100tn, 4101MFP"
+  price: $100.79
+  body: |
+    
+- title: C8543X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 9000, 9000MFP, 9000dn, 9000hns, 9000n, 9040, 9040dn, 9040MFP, 9040n, 9050, 9050dn, 9050MFP, 9050n"
+  price: $209.99
+  body: |
+    
+- title: Q1338A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 4200N"
+    - "4200DTN"
+    - "4200TN"
+  price: $121.09
+  body: |
+    
+- title: Q1339A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 4300"
+  price: $174.29
+  body: |
+    
+- title: Q2610A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 2300"
+    - "2300L"
+    - "2300d"
+    - "2300dn"
+    - "2300dtn, 2300n"
+  price: $93.79
+  body: |
+    
+- title: Q2612A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 1010, 1012, 1015, 1018, 1020, 1022"
+    - "1022n"
+    - "1022nw, 3015, 3020, 3030, 3050, 3052, 3055, M1319f MFP, M1005 MFP"
+  price: $55.99
+  body: |
+    
+- title: Q2613A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 1300, 1300n"
+  price: $55.99
+  body: |
+    
+- title: Q2613X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 1300"
+    - "1300n"
+  price: $71.39
+  body: |
+    
+- title: Q2624A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 1150"
+  price: $55.99
+  body: |
+    
+- title: Q2624X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 1150"
+  price: $71.39
+  body: |
+    
+- title: Q5942A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 4240n, 4250, 4250dtn, 4250Dtnsl, 4250n, 4250tn, 4350dtn, 4350Dtnsl, 4350n, 4350tn"
+  price: $116.89
+  body: |
+    
+- title: Q5942X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 4250"
+    - "4250dtn"
+    - "4250Dtnsl, 4250n, 4250tn, 4350dtn, 4350Dtnsl, 4350n, 4350tn"
+  price: $174.29
+  body: |
+    
+- title: Q5945A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 4345 MFP"
+    - "4345x"
+    - "4345xm"
+    - "4345xs"
+    - "M4345 MFP"
+    - "M4345x MFP, M4345xm MFP, M4345xs MFP"
+  price: $174.29
+  body: |
+    
+- title: Q5949A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 1160, 1320, 1320n, 1320nw, 1320tn, 3390, 3392"
+    - "CANON LBP-3360"
+  price: $55.99
+  body: |
+    
+- title: Q5949X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 1320"
+    - "1320n"
+    - "1320nw"
+    - "1320tn"
+    - "3390"
+    - "3392"
+  price: $102.19
+  body: |
+    
+- title: Q6511A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 2410"
+    - "2420"
+    - "2420d"
+    - "2420dn"
+    - "2420n"
+    - "2430dtn, 2430tn, 2430n"
+  price: $96.59
+  body: |
+    
+- title: Q6511X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 2410"
+    - "2420"
+    - "2420d"
+    - "2420dn"
+    - "2420n"
+    - "2430dtn, 2430tn, 2430n"
+  price: $160.29
+  body: |
+    
+- title: Q7516A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet 5200dtn"
+    - "5200tn"
+  price: $142.79
+  body: |
+    
+- title: Q7551A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet M3027 MFP"
+    - "M3027x MFP"
+    - "M3035 MFP"
+    - "M3035xs MFP, P3005, P3005d, P3005dn, P3005n, P3005x"
+  price: $100.79
+  body: |
+    
+- title: Q7551X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet M3027 MFP"
+    - "M3027x MFP"
+    - "M3035 MFP"
+    - "M3035xs MFP, P3005, P3005d, P3005dn, P3005n, P3005x"
+  price: $167.29
+  body: |
+    
+- title: Q7553A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet M2727nf MFP, P2014, P2015, P2015d, P2015dn, P2015n, P2015x"
+  price: $62.99
+  body: |
+    
+- title: Q7553X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet M2727nf MFP"
+    - "P2014"
+    - "P2015"
+    - "P2015d"
+    - "P2015dn"
+    - "P2015n, P2015x"
+  price: $103.59
+  body: |
+    
+- title: CB435A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet P1002"
+    - "P1003"
+    - "P1004"
+    - "P1005"
+    - "P1006, P1009"
+  price: $47.59
+  body: |
+    
+- title: CB436A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet M1522n, M1522n MFP, M1522nf"
+    - "M1522nf MFP"
+    - "P1505"
+    - "P1505n"
+  price: $54.59
+  body: |
+    
+- title: CE505A
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet P2035/n"
+    - "2055dn/x"
+  price: $62.29
+  body: |
+    
+- title: CE505X
+  brand: Hpmono
+  image: hp-logo.jpg
+  model_numbers:
+    - "LaserJet P2055dn/x"
+  price: $141.40
+  body: |
+    
+- title: 28P2492
+  brand: Ibm
+  image: ibm-logo.jpg
+  model_numbers:
+    - "Infoprint 1120"
+    - "1125"
+  price: $303.80
+  body: |
+    
+- title: 53P7706
+  brand: Ibm
+  image: ibm-logo.jpg
+  model_numbers:
+    - "Infoprint 1222"
+  price: $189.00
+  body: |
+    
+- title: 75P4302
+  brand: Ibm
+  image: ibm-logo.jpg
+  model_numbers:
+    - "Infoprint 1332"
+    - "1352"
+    - "1372"
+  price: $315.00
+  body: |
+    
+- title: 75P5710
+  brand: Ibm
+  image: ibm-logo.jpg
+  model_numbers:
+    - "Infoprint 1412"
+    - "1412n"
+    - "1512"
+    - "1512n"
+  price: $106.40
+  body: |
+    
+- title: 43034804
+  brand: Oki
+  image: oki-logo.jpg
+  model_numbers:
+    - "C3100n"
+    - "C3200n"
+  price: $29.99
+  body: |
+    Toner Ctg, Black, Y=3k
+    Toner Ctg, Cyan, Y=3k
+    Toner Ctg, Magenta, Y=3k
+    Toner Ctg, Yellow, Y=3k
+- title: 43459304
+  brand: Oki
+  image: oki-logo.jpg
+  model_numbers:
+    - "C3300n, C3400n, C3520, C3530, C3530n, C3530n MFP"
+  price: $48.99
+  body: |
+    Toner Ctg, Black, Y=2.5k
+    Toner Ctg, Cyan, Y=2.5k
+    Toner Ctg, Magenta Y=2.5k
+    Toner Ctg, Yellow, Y=2.5k
+- title: 42127404
+  brand: Oki
+  image: oki-logo.jpg
+  model_numbers:
+    - "C5100n, C5150n, C5200n, C5300n, C5400, C5400dn, C5400dtn, C5400n, C5400tn, C5510n MFP"
+  price: $47.60
+  body: |
+    Toner Ctg, Black, Y=5k
+    Toner Ctg, Cyan, Y=5k
+    Toner Ctg, Magenta, Y=5k
+    Toner Ctg, Yellow, Y=5k
+- title: 43324404
+  brand: Oki
+  image: oki-logo.jpg
+  model_numbers:
+    - "C5500n"
+    - "C5650n"
+    - "C5650dn"
+    - "C5800Ldn"
+    - "C5900MFP"
+  price: $83.30
+  body: |
+    Toner Ctg, Black, Y=6k
+    Toner Ctg, Cyan, Y=5k
+    Toner Ctg, Magenta, Y=5k
+    Toner Ctg, Yellow, Y=5k
+- title: 41963004
+  brand: Oki
+  image: oki-logo.jpg
+  model_numbers:
+    - "C7100"
+    - "C7300, C7300dxn"
+    - "C7300n, C7350hdn, C7350n, C7500dxn, C7500n, C7550hdn, C7550n"
+  price: $83.30
+  body: |
+    Toner Ctg, Black, Y=10k
+    Toner Ctg, Cyan, Y=10k
+    Toner Ctg, Magenta, Y=10k
+    Toner Ctg, Yellow, Y=10k
+- title: 41963604
+  brand: Oki
+  image: oki-logo.jpg
+  model_numbers:
+    - "C9300, C9300dxn, C9300n, C9500dxn"
+  price: $91.70
+  body: |
+    Toner Ctg, Black, Y=15k
+    Toner Ctg, Cyan, Y=15k
+    Toner Ctg, Magenta, Y=15k
+    Toner Ctg, Yellow, Y=15k
+- title: 42918904
+  brand: Oki
+  image: oki-logo.jpg
+  model_numbers:
+    - "C9600n"
+    - "C9600hdn"
+    - "C9800hn"
+    - "C9800hdn"
+  price: $85.40
+  body: |
+    Toner Ctg, Black, Y=15k
+    Toner Ctg, Cyan, Y=15k
+    Toner Ctg, Magenta, Y=15k
+    Toner Ctg, Yellow, Y=15k
+- title: 42918104
+  brand: Oki
+  image: oki-logo.jpg
+  model_numbers:
+    - "C9600N"
+    - "C9600HDN"
+    - "C9650N"
+    - "C9650HDN"
+    - "C9650DN"
+    - "C9800HN"
+    - "C9800HDN"
+  price: $112.00
+  body: |
+    Drum Ctg, Black, Y=42k
+    Drum Ctg, Cyan, Y=42k
+    Drum Ctg, Magenta, Y=42k
+    Drum Ctg, Yellow, Y=42k
+- title: TK17, TK18
+  brand: Kyocera
+  image: kyocera-logo.jpg
+  model_numbers:
+    - "CS1500"
+    - "CS1815"
+    - "CS1820"
+    - "FS1000"
+    - "FS1010"
+    - "FS1020D"
+    - "FS1050TN"
+    - "FS150D"
+    - "KM1500"
+    - "KM1815"
+    - "KM1820"
+  price: $73.99
+  body: |
+    
+- title: TK20H
+  brand: Kyocera
+  image: kyocera-logo.jpg
+  model_numbers:
+    - "DP1400"
+    - "DP1800"
+    - "FS1700"
+    - "FS3700"
+    - "FS6700"
+    - "FS6900"
+  price: $88.99
+  body: |
+    
+- title: TK122
+  brand: Kyocera
+  image: kyocera-logo.jpg
+  model_numbers:
+    - "FS1030D"
+    - "FS1030DN"
+  price: $58.99
+  body: |
+    
+- title: TK60
+  brand: Kyocera
+  image: kyocera-logo.jpg
+  model_numbers:
+    - "FS1800"
+    - "FS3800"
+  price: $76.99
+  body: |
+    
+- title: TK50H
+  brand: Kyocera
+  image: kyocera-logo.jpg
+  model_numbers:
+    - "FS1900"
+  price: $76.99
+  body: |
+    
+- title: TK55, TK57
+  brand: Kyocera
+  image: kyocera-logo.jpg
+  model_numbers:
+    - "FS1920"
+  price: $90.99
+  body: |
+    
+- title: TK310, TK312
+  brand: Kyocera
+  image: kyocera-logo.jpg
+  model_numbers:
+    - "FS2000D"
+    - "FS2000DN"
+  price: $69.99
+  body: |
+    
+- title: TK65, TK67
+  brand: Kyocera
+  image: kyocera-logo.jpg
+  model_numbers:
+    - "FS3820N"
+    - "FS3830N"
+  price: $90.99
+  body: |
+    
+- title: TK320, TK322
+  brand: Kyocera
+  image: kyocera-logo.jpg
+  model_numbers:
+    - "FS3900DN"
+  price: $69.99
+  body: |
+    
+- title: TK330, TK332
+  brand: Kyocera
+  image: kyocera-logo.jpg
+  model_numbers:
+    - "FS4000DN"
+  price: $69.99
+  body: |
+    
+- title: TK112, TK112E
+  brand: Kyocera
+  image: kyocera-logo.jpg
+  model_numbers:
+    - "FS720"
+    - "FS820"
+    - "FS920"
+  price: $41.99
+  body: |
+    
+- title: TK70
+  brand: Kyocera
+  image: kyocera-logo.jpg
+  model_numbers:
+    - "FS9100"
+    - "FS9100DN"
+    - "FS9500DN"
+    - "FS9520DN"
+  price: $97.99
+  body: |
+    
+- title: C500H2KG
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "C500n"
+    - "X500n"
+    - "X502n"
+  price: $99.00
+  body: |
+    C500H2KG  Toner Ctg, Black, Y=5k
+    C500H2CG  Toner Ctg, Cyan, Y=3k
+    C500H2MG  Toner Ctg, Magenta, Y=3k
+    C500H2YG  Toner Ctg, Yellow, Y=3k
+- title: 20K1403
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "C510"
+    - "C510n"
+    - "C510dtn"
+  price: $115.29
+  body: |
+    20K1403  Toner Ctg, Black, Y=10k
+    20K1400  Toner Ctg, Cyan, Y=6.6k
+    20K1401  Toner Ctg, Magenta,Y=6.6k
+    20K1402  Toner Ctg, Yellow, Y=6.6k
+- title: C5222KS
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "C522n"
+    - "C524dn"
+    - "C524dtn"
+    - "C524n"
+    - "C530dn"
+    - "C532dn"
+    - "C532n"
+    - "C534dn"
+    - "C534dtn"
+    - "C534n"
+  price: $100.70
+  body: |
+    C5222KS  Toner Ctg, Black, Y=4k 
+    C5222CS  Toner Ctg, Cyan, Y=3k 
+    C5222MS Toner Ctg, Magenta, Y=3k 
+    C5222YS  Toner Ctg, Yellow, Y=3k
+- title: C5242KH
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "C524dn, C524dtn, C524n, C530dn, C532dn, C532n, C534dn, C534dtn, C534n"
+  price: $141.86
+  body: |
+    C5242KH  Toner Ctg, Black, Y=8k
+    C5242CH  Toner Ctg, Cyan, Y=5k 
+    C5242MH  Toner Ctg, Magenta, Y=5k 
+    C5242YH  Toner Ctg, Yellow, Y=5k
+- title: 12035SA
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "E120"
+  price: $56.89
+  body: |
+    
+- title: 10S0150
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "E210"
+  price: $60.86
+  body: |
+    
+- title: 24035SA
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "E230"
+    - "E232"
+    - "E232t"
+    - "E234"
+    - "E234n"
+    - "E234tn"
+    - "E240"
+    - "E240n"
+    - "E240t"
+    - "E323"
+    - "E323n"
+    - "E323t"
+    - "E330"
+    - "E332"
+    - "E332n"
+    - "E332tn"
+    - "E340"
+    - "E342"
+    - "E342tn"
+  price: $61.74
+  body: |
+    
+- title: 12A8305
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "E230"
+    - "E232"
+    - "E232t"
+    - "E234"
+    - "E234n"
+    - "E234tn"
+    - "E323"
+    - "E323n"
+    - "E323t"
+    - "E330"
+    - "E332"
+    - "E332n"
+    - "E332tn"
+  price: $67.99
+  body: |
+    
+- title: 12A8302
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "E230"
+    - "E232"
+    - "E232t"
+    - "E234"
+    - "E234n"
+    - "E234tn"
+    - "E240"
+    - "E240n"
+    - "E240t"
+    - "E323"
+    - "E323n"
+    - "E323t"
+    - "E330"
+    - "E332"
+    - "E332n"
+    - "E332tn"
+    - "E340"
+    - "E342"
+    - "E342tn"
+  price: $50.00
+  body: |
+    
+- title: 13T0101
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "4044 Optra E312"
+    - "E310"
+    - "E312"
+    - "E312L"
+  price: $109.62
+  body: |
+    
+- title: 08A0477
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "E320"
+    - "E322"
+    - "E322n"
+  price: $102.69
+  body: |
+    
+- title: 12A7305
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "E321"
+    - "E323"
+    - "E323n"
+    - "E323t"
+  price: $102.69
+  body: |
+    
+- title: E250A21A
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "E250"
+    - "E350"
+    - "E350D"
+    - "E352"
+  price: $75.92
+  body: |
+    
+- title: E352H21A
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "E350"
+    - "E350D"
+    - "E352"
+  price: $134.18
+  body: |
+    
+- title: E250X22G
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "E250"
+    - "350"
+    - "352"
+    - "450"
+  price: $30.00
+  body: |
+    
+- title: 12A7315
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "T420"
+  price: $146.16
+  body: |
+    
+- title: 12A6735
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "T520"
+    - "T522"
+    - "X520"
+    - "X522"
+  price: $245.39
+  body: |
+    
+- title: 12A5745
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "4069 Optra T"
+    - "T610"
+    - "T610sx"
+    - "T610n"
+    - "T612"
+    - "T612n"
+    - "T612s"
+    - "T614"
+    - "T614n"
+    - "T614nl"
+    - "T614s"
+    - "T616"
+    - "T616n"
+  price: $245.07
+  body: |
+    
+- title: 12A6765
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "T620"
+    - "T622"
+  price: $286.65
+  body: |
+    
+- title: 12A7362
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "T630"
+    - "T630dn"
+    - "T630n"
+    - "T632"
+    - "T632dtn"
+    - "T632Dtnf"
+    - "T632n"
+    - "T632tn"
+    - "T634"
+    - "T634dtn"
+    - "T634Dtnf"
+    - "T634n"
+    - "T634tn"
+    - "X630"
+    - "X632"
+    - "X632e"
+    - "X632s"
+    - "X634dte"
+    - "X634e"
+  price: $249.80
+  body: |
+    
+- title: 12A7365
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "T630"
+    - "T630dn"
+    - "T630n"
+    - "T632"
+    - "T632dtn"
+    - "T632Dtnf"
+    - "T632n"
+    - "T632tn"
+    - "T634"
+    - "T634dtn"
+    - "T634Dtnf"
+    - "T634n"
+    - "T634tn"
+    - "X630"
+    - "X632"
+    - "X632e"
+    - "X632s"
+    - "X634dte"
+    - "X634e"
+  price: $310.91
+  body: |
+    
+- title: 64035HA
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "T640"
+    - "T640dn"
+    - "T640dtn"
+    - "T640n"
+    - "T640tn"
+    - "T642"
+    - "T642dn"
+    - "T642dtn"
+    - "T642n"
+    - "T642tn"
+    - "T644"
+    - "T644dn"
+    - "T644dtn"
+    - "T644n"
+    - "T644tn"
+  price: $249.19
+  body: |
+    
+- title: 64435XA
+  brand: Lexmark
+  image: lexmark-logo.jpg
+  model_numbers:
+    - "T640"
+    - "T640dn"
+    - "T640dtn"
+    - "T640n"
+    - "T640tn"
+    - "T642"
+    - "T642dn"
+    - "T642dtn"
+    - "T642n"
+    - "T642tn"
+    - "T644"
+    - "T644dn"
+    - "T644dtn"
+    - "T644n"
+    - "T644tn"
+  price: $265.78
+  body: |
+    
+- title: UG3313
+  brand: Panasonic
+  image: panasonic-logo.jpg
+  model_numbers:
+    - "DF-1100"
+    - "DX-1000"
+    - "2000"
+    - "UF-550"
+    - "560"
+    - "770"
+    - "770i"
+    - "880"
+    - "885"
+    - "889"
+    - "895"
+  price: $155.40
+  body: |
+    
+- title: UG3350
+  brand: Panasonic
+  image: panasonic-logo.jpg
+  model_numbers:
+    - "UF-585"
+    - "590"
+    - "595"
+  price: $120.00
+  body: |
+    
+- title: UG5510
+  brand: Panasonic
+  image: panasonic-logo.jpg
+  model_numbers:
+    - "DX-800"
+    - "UF-780"
+    - "790"
+    - "6000"
+  price: $120.00
+  body: |
+    
+- title: UG5520
+  brand: Panasonic
+  image: panasonic-logo.jpg
+  model_numbers:
+    - "UF-890"
+    - "990"
+  price: $150.00
+  body: |
+    
+- title: UG5540
+  brand: Panasonic
+  image: panasonic-logo.jpg
+  model_numbers:
+    - "PANAFAX UG-7000"
+    - "8000"
+    - "9000"
+  price: $99.99
+  body: |
+    
+- title: FO-29ND
+  brand: Sharp
+  image: sharp-logo.jpg
+  model_numbers:
+    - "FO-2900"
+    - "2959M"
+    - "2970M"
+    - "3800M"
+  price: $67.90
+  body: |
+    
+- title: FO-29DR
+  brand: Sharp
+  image: sharp-logo.jpg
+  model_numbers:
+    - "FO-2900"
+    - "2959M"
+    - "2970M"
+    - "3800M"
+  price: $62.99
+  body: |
+    
+- title: FO-45ND
+  brand: Sharp
+  image: sharp-logo.jpg
+  model_numbers:
+    - "FO-4500"
+    - "5500"
+    - "6500"
+  price: $81.20
+  body: |
+    
+- title: FO-45DR
+  brand: Sharp
+  image: sharp-logo.jpg
+  model_numbers:
+    - "FO-4500"
+    - "5500"
+    - "6500"
+  price: $72.10
+  body: |
+    
+- title: FO-47ND
+  brand: Sharp
+  image: sharp-logo.jpg
+  model_numbers:
+    - "FO-4650"
+    - "4700"
+    - "4970"
+    - "5550"
+    - "5700"
+    - "5800"
+    - "6700"
+  price: $93.80
+  body: |
+    
+- title: FO-47DR
+  brand: Sharp
+  image: sharp-logo.jpg
+  model_numbers:
+    - "FO-4650"
+    - "4700"
+    - "4970"
+    - "5550"
+    - "5700"
+    - "5800"
+    - "6700"
+  price: $72.10
+  body: |
+    
+- title: AL-80TD
+  brand: Sharp
+  image: sharp-logo.jpg
+  model_numbers:
+    - "AL-800"
+    - "800L"
+    - "840"
+    - "841"
+  price: $101.50
+  body: |
+    
+- title: AL-80DR
+  brand: Sharp
+  image: sharp-logo.jpg
+  model_numbers:
+    - "AL-800"
+    - "800L"
+    - "840"
+    - "841"
+  price: $132.99
+  body: |
+    
+- title: AL-100TD
+  brand: Sharp
+  image: sharp-logo.jpg
+  model_numbers:
+    - "Sharp AL1000"
+    - "1010"
+    - "1041"
+    - "1200"
+    - "1215"
+    - "1216"
+    - "1340"
+    - "1451"
+    - "1520"
+    - "1521"
+    - "1530"
+    - "1551"
+    - "1631"
+    - "1641CS"
+    - "1651CS"
+    - "1661CS"
+    - "AR150"
+    - "150N"
+    - "151"
+    - "152"
+    - "153E"
+    - "153EN"
+    - "155"
+    - "156"
+    - "157E"
+    - "157EN"
+    - "ARF152"
+    - "Xerox WorkCentre Pro16FX"
+    - "215"
+    - "XD100"
+    - "102"
+    - "103"
+    - "105"
+    - "120"
+    - "130"
+    - "155"
+    - "XL2120"
+    - "2130"
+  price: $154.00
+  body: |
+    
+- title: AL-100DR
+  brand: Sharp
+  image: sharp-logo.jpg
+  model_numbers:
+    - "Sharp AL1000"
+    - "1010"
+    - "1041"
+    - "1200"
+    - "1215"
+    - "1216"
+    - "1340"
+    - "1451"
+    - "1520"
+    - "1521"
+    - "1530"
+    - "1551"
+    - "1631"
+    - "1641CS"
+    - "1651CS"
+    - "1661CS"
+    - "AR150"
+    - "150N"
+    - "151"
+    - "152"
+    - "153E"
+    - "153EN"
+    - "155"
+    - "156"
+    - "157E"
+    - "157EN"
+    - "ARF152"
+    - "Xerox WorkCentre Pro16FX"
+    - "215"
+    - "XD100"
+    - "102"
+    - "103"
+    - "105"
+    - "120"
+    - "130"
+    - "155"
+    - "XL2120"
+    - "2130"
+  price: $144.90
+  body: |
+    
+- title: TK-18
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "DP-80F"
+    - "85F"
+    - "Sharp FO4400"
+    - "4700"
+    - "4950"
+    - "5550"
+    - "5700"
+    - "5800"
+    - "6700"
+    - "DC-500"
+    - "600"
+    - "Konica Minolta Pagework 8"
+    - "Fax 1600"
+    - "2600"
+    - "3600"
+    - "PagePro 1100"
+    - "1250"
+    - "8E"
+    - "NEC Nefax 635"
+    - "637"
+    - "647"
+  price: $105.00
+  body: |
+    
+- title: DK-18
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "DP-80F"
+    - "85F"
+    - "Sharp FO4400"
+    - "4700"
+    - "4950"
+    - "5550"
+    - "5700"
+    - "5800"
+    - "6700"
+    - "DC-500"
+    - "600"
+    - "Konica Minolta Pagework 8"
+    - "Fax 1600"
+    - "2600"
+    - "3600"
+    - "PagePro 1100"
+    - "1250"
+    - "8E"
+    - "NEC Nefax 635"
+    - "637"
+    - "647"
+  price: $69.30
+  body: |
+    
+- title: 106R00684
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 6100"
+  price: $81.19
+  body: |
+    
+- title: 106R01274
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 6110"
+    - "6110MFP"
+  price: $44.09
+  body: |
+    
+- title: 113R00692
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 6120"
+    - "6115MFP"
+  price: $73.49
+  body: |
+    
+- title: 106R01334
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 6125"
+  price: $44.09
+  body: |
+    
+- title: 106R01281
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 6130"
+  price: $55.29
+  body: |
+    
+- title: 113R00726
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 6180"
+    - "6180N"
+    - "6180DN"
+    - "6180MFP"
+  price: $139.99
+  body: |
+    
+- title: 106R00675
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 6250"
+  price: $47.59
+  body: |
+    
+- title: 106R01085
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 6300"
+  price: $59.49
+  body: |
+    
+- title: 106R01147
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 6350"
+  price: $73.49
+  body: |
+    
+- title: 106R01217
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 6360"
+    - "6360DN"
+    - "6360DT"
+    - "6360DX"
+    - "6360N"
+  price: $89.99
+  body: |
+    
+- title: 106R01221
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 6360"
+    - "6360DN"
+    - "6360DT"
+    - "6360DX"
+    - "6360N"
+  price: $116.39
+  body: |
+    
+- title: 016-1980-00
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 7300"
+  price: $123.89
+  body: |
+    
+- title: 106R01080
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 7400"
+  price: $101.49
+  body: |
+    
+- title: 013R00601
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "WorkCentre PE120"
+    - "PE120i"
+  price: $73.00
+  body: |
+    
+- title: 6R881
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "XC810"
+    - "820"
+    - "830"
+    - "855,865"
+    - "875"
+    - "1020"
+    - "1040"
+    - "1044"
+    - "1045"
+    - "1245"
+    - "1255"
+  price: $90.99
+  body: |
+    
+- title: 6R914
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "XD-100"
+    - "102"
+    - "103f"
+    - "105f"
+    - "120f"
+    - "125f"
+    - "130df"
+    - "155df"
+  price: $125.99
+  body: |
+    
+- title: 13R551
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "XD-100"
+    - "102"
+    - "103f"
+    - "105f"
+    - "120f"
+    - "125f"
+    - "130df"
+    - "155df"
+  price: $144.90
+  body: |
+    
+- title: 109R00747
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 3150"
+  price: $80.49
+  body: |
+    
+- title: 106R00687
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 3450"
+    - "3450B"
+    - "3450D"
+    - "3450DN"
+  price: $95.89
+  body: |
+    
+- title: 106R00462
+  brand: Toshiba
+  image: toshiba-logo.jpg
+  model_numbers:
+    - "Phaser 3400"
+    - "3500B"
+    - "3500D"
+    - "3500DN"
+  price: $126.69
+  body: |
+    
+- title: CLP-K300A
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "CLP-300"
+    - "CLP-300N"
+    - "CLX-3160"
+  price: $38.99
+  body: |
+    Toner Ctg, Black, Y=2k
+    Toner Ctg, Cyan, Y=1k
+    Toner Ctg, Magenta, Y=1k
+    Toner Ctg, Yellow, Y=1k
+- title: CLP-K350A
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "CLP-350"
+    - "CLP-351KN"
+  price: $44.99
+  body: |
+    Toner Ctg, Black, Y=4k
+    Toner Ctg, Cyan, Y=2k
+    Toner Ctg, Magenta, Y=2k
+    Toner Ctg, Yellow, Y=2k
+- title: CLP-500D7K
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "CLP-500"
+    - "CLP-500N"
+    - "CLP-550"
+    - "CLP-550N"
+  price: $77.40
+  body: |
+    Toner Ctg, Black, Y=7k
+    Toner Ctg, Cyan, Y=5k
+    Toner Ctg, Magenta, Y=5k
+    Toner Ctg, Yellow, Y=5k
+- title: CLP-510D7K
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "CLP-510"
+    - "CLP-510N"
+  price: $61.80
+  body: |
+    Toner Ctg, Black, Y=7k
+    Toner Ctg, Cyan, Y=5k
+    Toner Ctg, Magenta, Y=5k
+    Toner Ctg, Yellow, Y=5k
+- title: CLP-K600A
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "CLP-600"
+    - "CLP-600N"
+    - "CLP-650"
+    - "CLP-650N"
+  price: $79.99
+  body: |
+    Toner Ctg, Black, Y=4k
+    Toner Ctg, Cyan, Y=4k
+    Toner Ctg, Magenta, Y=4k
+    Toner Ctg, Yellow, Y=4k
+- title: CLP-K660B
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "CLP610ND"
+    - "CLP660ND"
+    - "CLX6200FX"
+    - "CLX6210FX"
+  price: $82.50
+  body: |
+    Toner Ctg, Black, Y=5.5k
+    Toner Ctg, Cyan, Y=5k
+    Toner Ctg, Magenta, Y=5k
+    Toner Ctg, Yellow, Y=5k
+- title: ML-1210D3, ML-4500D3
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "ML-1010"
+    - "1210"
+    - "1250,1430"
+    - "4500"
+    - "4560"
+    - "SF5100"
+    - "SF550"
+    - "555"
+    - "XEROX 3110"
+    - "3210"
+    - "LEXMARK E210"
+  price: $47.99
+  body: |
+    
+- title: ML-1710D3, SCX-4100D3, SCX-4216D3, SCX-4200A
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "ML-1500"
+    - "1510"
+    - "1510b"
+    - "1520"
+    - "1710"
+    - "1710B"
+    - "1710D"
+    - "1710P"
+    - "1740"
+    - "1750"
+    - "1755"
+    - "SF-560"
+    - "565P"
+    - "ML-SCX4016"
+    - "4100"
+    - "4116"
+    - "4116D"
+    - "4216F"
+    - "4200"
+    - "Xerox Phaser 3115"
+    - "3120"
+    - "3121"
+    - "3130"
+    - "3116"
+    - "Xerox WorkCentre PE16"
+    - "Lexmark X215MFP"
+  price: $69.00
+  body: |
+    
+- title: ML-2010D3, ML-1610D2
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "ML-1610"
+    - "2010"
+    - "2015"
+    - "2510"
+    - "2570"
+    - "SCX-4321"
+    - "SCX-4521"
+  price: $49.19
+  body: |
+    
+- title: ML-2150D8
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "ML-2150"
+    - "2151N"
+    - "2152W"
+  price: $94.19
+  body: |
+    
+- title: ML-2250D5
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "ML-2250"
+    - "2251"
+    - "N"
+    - "NP"
+    - "W"
+  price: $61.79
+  body: |
+    
+- title: ML-D2850B
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "ML-2850D"
+    - "2851ND"
+  price: $77.99
+  body: |
+    
+- title: ML-3560DB
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "ML-3061ND"
+    - "3560"
+    - "3561N"
+    - "3561ND"
+    - "3562W"
+  price: $92.99
+  body: |
+    
+- title: ML-6060D6, ML-1650D8
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "ML-1440"
+    - "1450"
+    - "1451N"
+    - "1650"
+    - "1651"
+    - "6040"
+    - "6060"
+    - "6060N"
+    - "6060S"
+    - "IBM Infoprint 12"
+    - "NEC Superscript 1400"
+    - "1450"
+    - "1450N"
+    - "Xerox DocuPrint P1210"
+  price: $77.99
+  body: |
+    
+- title: ML-D1630A
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "ML-1630"
+    - "1631K"
+    - "SCX-4500"
+    - "4501K"
+  price: $48.99
+  body: |
+    
+- title: ML-D3050B
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "ML-3051N"
+    - "ML-3051ND"
+  price: $73.79
+  body: |
+    
+- title: ML-D3470A
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "ML-3470D"
+    - "ML-3471ND"
+    - "ML-3472NDK"
+  price: $65.99
+  body: |
+    
+- title: ML-D3470B
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "ML-3470D"
+    - "ML-3471ND"
+    - "ML-3472NDK"
+  price: $107.99
+  body: |
+    
+- title: SCX-4720D5
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "SCX-4520"
+    - "4720"
+  price: $59.99
+  body: |
+    
+- title: SCX-5312D6
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "SCX-5112"
+    - "5115"
+    - "5312F"
+    - "5315F"
+    - "SF-830"
+    - "835P"
+  price: $56.00
+  body: |
+    
+- title: SCX-5315R2
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "SCX-5112"
+    - "5115"
+    - "5312F"
+    - "5315F"
+    - "SF-830"
+    - "835P"
+  price: $79.00
+  body: |
+    
+- title: SCX-D4725A
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "SCX-4725F"
+  price: $49.19
+  body: |
+    
+- title: SCX-D5530B
+  brand: Samsung
+  image: samsung-logo.jpg
+  model_numbers:
+    - "SCX-5530FN"
+  price: $71.99
+  body: |
+    
+- title: 106R00684
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 6100"
+  price: $81.19
+  body: |
+    Toner Ctg, Black, Y=7k
+    Toner Ctg, Cyan, Y=5k
+    Toner Ctg, Magenta, Y=5k
+    Toner Ctg, Yellow, Y=5k
+- title: 106R01274
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 6110"
+    - "6110MFP"
+  price: $44.09
+  body: |
+    Toner Ctg, Black, Y=2k
+    Toner Ctg, Cyan, Y=1k
+    Toner Ctg, Magenta, Y=1k
+    Toner Ctg, Yellow, Y=1k
+- title: 113R00692
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 6120"
+    - "6115MFP"
+  price: $73.49
+  body: |
+    Toner Ctg, Black, Y=4.5k
+    Toner Ctg, Cyan, Y=4.5k
+    Toner Ctg, Magenta, Y=4.5k
+    Toner Ctg, Yellow, Y=4.5k
+- title: 106R01334
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 6125"
+  price: $44.09
+  body: |
+    Toner Ctg, Black, Y=2k
+    Toner Ctg, Cyan, Y=1k
+    Toner Ctg, Magenta, Y=1k
+    Toner Ctg, Yellow, Y=1k
+- title: 106R01281
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 6130"
+  price: $55.29
+  body: |
+    Toner Ctg, Black, Y=2.5k
+    Toner Ctg, Cyan, Y=1.9k
+    Toner Ctg, Magenta, Y=1.9k
+    Toner Ctg, Yellow, Y=1.9k
+- title: 113R00726
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 6180"
+    - "6180N"
+    - "6180DN"
+    - "6180MFP"
+  price: $139.99
+  body: |
+    Toner Ctg, Black, Y=8k
+    Toner Ctg, Cyan, Y=6k
+    Toner Ctg, Magenta, Y=6k
+    Toner Ctg, Yellow, Y=6k
+- title: 106R00675
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 6250"
+  price: $47.59
+  body: |
+    Toner Ctg, Black, Y=8k
+    Toner Ctg, Cyan, Y=8k
+    Toner Ctg, Magenta, Y=8k
+    Toner Ctg, Yellow, Y=8k
+- title: 6R881
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "XC810"
+    - "820"
+    - "830"
+    - "855,865"
+    - "875"
+    - "1020"
+    - "1040"
+    - "1044"
+    - "1045"
+    - "1245"
+    - "1255"
+  price: $90.99
+  body: |
+    
+- title: 6R914
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "XD-100"
+    - "102"
+    - "103f"
+    - "105f"
+    - "120f"
+    - "125f"
+    - "130df"
+    - "155df"
+  price: $125.99
+  body: |
+    
+- title: 13R551
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "XD-100"
+    - "102"
+    - "103f"
+    - "105f"
+    - "120f"
+    - "125f"
+    - "130df"
+    - "155df"
+  price: $144.90
+  body: |
+    
+- title: 109R00747
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 3150"
+  price: $80.49
+  body: |
+    
+- title: 106R00687
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 3450"
+    - "3450B"
+    - "3450D"
+    - "3450DN"
+  price: $95.89
+  body: |
+    
+- title: 106R00462
+  brand: Xerox
+  image: xerox-logo.jpg
+  model_numbers:
+    - "Phaser 3400"
+    - "3500B"
+    - "3500D"
+    - "3500DN"
+  price: $126.69
+  body: |
+    
+- title: 1710517-005
+  brand: Konica-minolta
+  image: konica-minolta-logo.jpg
+  model_numbers:
+    - "Magicolor 2300DL"
+    - "2300W"
+    - "2350EN"
+  price: $59.00
+  body: |
+    1710517-005 Toner Ctg, Black, Y=4.5k
+    1710517-008 Toner Ctg, Cyan, Y=4.5k
+    1710517-007 Toner Ctg, Magenta,Y=4.5k
+    1710517-006 Toner Ctg, Yellow, Y=4.5k
+- title: 1710587004
+  brand: Konica-minolta
+  image: konica-minolta-logo.jpg
+  model_numbers:
+    - "Magicolor 2400W"
+    - "2430DL"
+    - "2450"
+    - "2480MF"
+    - "2490MF"
+    - "2500W"
+    - "2530DL"
+    - "2550"
+    - "2550DN"
+    - "2550EN"
+    - "2590MF"
+  price: $70.00
+  body: |
+    1710587004 257102500BK Toner Ctg, Black, Y=4.5k
+    1710587007 257102500CN Toner Ctg, Cyan, Y=4.5k
+    1710587006 257102500MA Toner Ctg, Magenta,Y=4.5k
+    1710587005 257102500YW Toner Ctg, Yellow, Y=4.5k
+- title: 1710550001
+  brand: Konica-minolta
+  image: konica-minolta-logo.jpg
+  model_numbers:
+    - "Magicolor 3300"
+  price: $46.00
+  body: |
+    1710550001 Toner Ctg, Black, Y=9k
+    1710550004 Toner Ctg, Cyan, Y=6.5k
+    1710550003 Toner Ctg, Magenta,Y=6.5k
+    1710550002 Toner Ctg, Yellow, Y=6.5k
+- title: 1710580001
+  brand: Konica-minolta
+  image: konica-minolta-logo.jpg
+  model_numbers:
+    - "Magicolor 5430DL"
+    - "5440DL"
+  price: $109.99
+  body: |
+    1710580001 257105430BK Toner Ctg, Black, Y=6k
+    1710580004 257105430CN Toner Ctg, Cyan, Y=6k
+    1710580003 257105430MA Toner Ctg, Magenta, Y=6k
+    1710580002 257105430YW Toner Ctg, Yellow, Y=6k

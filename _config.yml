@@ -7,12 +7,18 @@ keywords: "CBS,Connectivity Business Systems,Titusville,FL,Copiers,Ink,Toner,Dig
 url: "http://cbs-biz.com"
 gems: [jekyll-paginate]
 paginate: 5
+page_gen-dirs: true
+page_gen:
+  - data: toner
+    template: ink-toner
+    name: title
+    dir: ink_toner
+    banner: banner-ink_toner.jpg
+
 collections:
   devotional:
     output: true
   multi-function-products:
-    output: true
-  ink_toner:
     output: true
   team:
     output: false
@@ -31,8 +37,7 @@ defaults:
     values:
       banner: banner-products.jpg
   - scope:
-      path: ""
-      type: ink_toner
+      path: ink_toner
     values:
       banner: banner-ink_toner.jpg
   - scope:
