@@ -44,5 +44,18 @@ defaults:
       banner: banner-mountains.jpg
       permalink: /blog/:year/:month/:day/
 
+# Prose
+prose:
+  siteurl: "http://cbsbiz.github.io"
+  media: images
+  metadata:
+    _devotional:
+      - name: "verses"
+        field:
+          element: "textarea"
+          help: "Enter one verse per line, preceded by a dash (-)."
+          label: "Verses"
+          value: "- Genesis 1:1"
+
 # Build settings
 markdown: kramdown
