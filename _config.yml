@@ -25,14 +25,12 @@ collections:
 
 defaults:
   - scope:
-      path: ""
       type: devotional
     values:
       banner: banner-mountains.jpg
       layout: devotional
       permalink: /devotional/:year/:month/:day/
   - scope:
-      path: ""
       type: multi-function-products
     values:
       banner: banner-products.jpg
@@ -41,7 +39,6 @@ defaults:
     values:
       banner: banner-ink_toner.jpg
   - scope:
-      path: ""
       type: posts
     values:
       banner: banner-mountains.jpg
