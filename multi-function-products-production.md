@@ -2,7 +2,7 @@
 layout: page
 title: Production
 banner: banner-products-production.jpg
-permalink: /multi-function-products/production/index.html
+permalink: /multi-function-products/production/
 ---
 
 {% for product in site.multi-function-products %}

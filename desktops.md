@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Desktops
-permalink: /managed-services/desktops
+permalink: /managed-services/desktops/
 banner: banner-ms-desktops.jpg
 ---
 

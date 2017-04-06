@@ -2,7 +2,7 @@
 layout: page
 title: Toshiba Products
 banner: banner-ink_toner.jpg
-permalink: /ink_toner/toshiba
+permalink: /ink_toner/toshiba/
 ---
 
 {% for product in site.ink_toner %}

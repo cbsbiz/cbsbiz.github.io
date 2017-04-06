@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Meet the Team
-permalink: /meet-the-team
 banner: banner-meet-the-team.jpg
+permalink: /meet-the-team/
 ---
 
 CBS is a family owned and operated business serving the Central FL community and beyond for over twenty five years. Curtis Dupree, our fearless leader and once Football Star at Edgewater High School, molded our company from nothing. From the inception of our first office in Ormond Beach FL, to the successful small business that it is today with our headquarters located in Titusville FL. Curtis and his ever so handsome son Dale Dupree have been running the show for the last few years. Now more than ever they are motivated and pumped up to get out and serve the community, with our cost saving and efficient product line we hope to meet and serve you as well!!!

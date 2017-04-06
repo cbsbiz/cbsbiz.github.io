@@ -2,7 +2,7 @@
 layout: page
 title: Konica Minolta Color Printers
 banner: banner-products.jpg
-permalink: /multi-function-products/color/index.html
+permalink: /multi-function-products/color/
 ---
 
 {% for product in site.multi-function-products %}

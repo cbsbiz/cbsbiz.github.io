@@ -1,8 +1,8 @@
 ---
 layout: page
 title: iScan-Offsite
-permalink: /iscan-offsite
 banner: banner-iscan-offsite.jpg
+permalink: /iscan-offsite/
 ---
 
 **Connectivity Business Systems** has revolutionized the way you handle your paper documents and files, through iScan-Offsite. CBS has been serving our clients with offsite storage and backups of their paper documents for several years through this unique service that we created. Our remote document imaging solution gives you the full power of our high class management system for a fraction of the cost.

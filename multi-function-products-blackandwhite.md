@@ -2,7 +2,7 @@
 layout: page
 title: Konica Minolta Black & White Printers
 banner: banner-products-bw.jpg
-permalink: /multi-function-products/blackandwhite/index.html
+permalink: /multi-function-products/blackandwhite/
 ---
 
 {% for product in site.multi-function-products %}

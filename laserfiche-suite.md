@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Laserfiche Suite
-permalink: /laserfiche-suite
 banner: banner-main.jpg
+permalink: /laserfiche-suite/
 ---
 
 ## Laserfiche Avante

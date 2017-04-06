@@ -2,7 +2,7 @@
 layout: page
 title: Consumer
 banner: banner-products-consumer.jpg
-permalink: /multi-function-products/consumer/index.html
+permalink: /multi-function-products/consumer/
 ---
 
 {% for product in site.multi-function-products %}

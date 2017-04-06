@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Servers
-permalink: /managed-services/servers
+permalink: /managed-services/servers/
 banner: banner-services-servers.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Multi-Function Products
 banner: banner-products.jpg
-permalink: /multi-function-products/index.html
+permalink: /multi-function-products/
 ---
 
 ## Black & White Bizhub

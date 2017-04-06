@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Printers
-permalink: /managed-services/printers
+permalink: /managed-services/printers/
 banner: banner-ms-printers.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Backups
-permalink: /managed-services/backups
+permalink: /managed-services/backups/
 banner: banner-services-backups.jpg
 ---
 

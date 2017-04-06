@@ -2,7 +2,7 @@
 layout: page
 title: Products
 banner: banner-ink_toner.jpg
-permalink: /ink_toner/all
+permalink: /ink_toner/all/
 ---
 
 {% for product in site.data.toner %}

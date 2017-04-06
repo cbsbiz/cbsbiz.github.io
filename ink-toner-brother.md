@@ -2,7 +2,7 @@
 layout: page
 title: Brother Products
 banner: banner-ink_toner.jpg
-permalink: /ink_toner/brother
+permalink: /ink_toner/brother/
 ---
 
 {% for product in site.ink_toner %}
